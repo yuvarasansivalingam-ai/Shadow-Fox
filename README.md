@@ -1,23 +1,41 @@
 # Shadow Fox Internship Projects
 
-This repository contains internship project submissions focused on data analysis, natural language processing, and machine learning experimentation.
+This repository contains internship project submissions completed as part of the Shadow Fox program. The work demonstrates practical skills in data analysis, natural language processing, machine learning experimentation, and Python-based project development.
 
-## Projects
+## Project Overview
 
 ### AI-Driven Natural Language Processing Project
-Task 3 focuses on exploring and analyzing the capabilities of a selected language model in a Jupyter notebook.
+This project explores the capabilities of a selected language model through a Jupyter notebook. It focuses on understanding how language models respond to different input scenarios and how their outputs can be evaluated.
 
-- Implemented a language model workflow using Hugging Face Transformers with optional LangChain integration.
-- Tested the model across multiple prompt scenarios, including context understanding, creative generation, summarization-style output, reasoning, and responsible AI use.
-- Evaluated response quality using simple quantitative measures and qualitative observations.
-- Documented the model's strengths, limitations, ethical considerations, and improvement opportunities.
-- Project folder: `ai-driven-nlp-project/`
+Key areas covered:
+- Language model implementation using Hugging Face Transformers.
+- Optional LangChain integration for an application-style workflow.
+- Testing across context understanding, creative generation, summarization, reasoning, and responsible AI prompts.
+- Evaluation of response quality using simple metrics and qualitative analysis.
+- Discussion of model strengths, limitations, ethical concerns, and improvement opportunities.
 
 ### Store Sales Analysis
-- Data cleaning and visualization using Pandas and Matplotlib.
+This project analyzes store sales data to identify business patterns and useful insights. It includes data cleaning, visualization, and trend analysis to support better understanding of sales and profit performance.
+
+Key areas covered:
+- Data cleaning and preparation using Pandas.
 - Monthly sales and profit trend analysis.
-- Category-level business insights.
+- Category-level and subcategory-level business insights.
+- Visualizations created using Matplotlib.
 
 ### AutoCorrect Keyboard
-- Built using NLTK.
-- Performs text correction using NLP techniques.
+This project applies natural language processing techniques to build a basic autocorrect keyboard system. It demonstrates text processing and correction methods using Python NLP tools.
+
+Key areas covered:
+- Text processing using NLTK.
+- Word correction based on NLP techniques.
+- Simple Python implementation for improving typed input.
+
+## Skills Demonstrated
+
+- Python programming
+- Data analysis and visualization
+- Natural language processing
+- Language model experimentation
+- Jupyter notebook documentation
+- Git and GitHub project management
