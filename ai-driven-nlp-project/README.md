@@ -20,24 +20,23 @@ The notebook uses `distilgpt2`, a lightweight causal language model based on GPT
 
 ```text
 ai-driven-nlp-project/
-├── README.md
-├── requirements.txt
-└── notebook/
-    └── lm_exploration_analysis.ipynb
+|-- README.md
+|-- requirements.txt
+`-- lm_exploration_analysis.ipynb
 ```
 
 ## How to Run
 
-1. Open the notebook:
-
-   ```bash
-   jupyter notebook notebook/lm_exploration_analysis.ipynb
-   ```
-
-2. Install the dependencies if needed:
+1. Install the dependencies if needed:
 
    ```bash
    pip install -r requirements.txt
+   ```
+
+2. Open the notebook:
+
+   ```bash
+   jupyter notebook lm_exploration_analysis.ipynb
    ```
 
 3. Run all cells from top to bottom.
